@@ -1,4 +1,5 @@
 # predoccourse2019
 MPI-CBG Predoc course
 
-Nuno Pimpão Martins
+Nuno Pimpão Martins  
+Tommaso Bianucci
